@@ -1,0 +1,434 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@489&family=Exo:ital,wght@1,200&family=Montserrat:ital@1&family=Oswald:wght@300&family=Roboto+Mono:wght@300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#bg{
+    background-image: url(./images/coffe\ gallery.jpeg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    width: 1520px;
+    height:150vh;
+    
+}
+
+.navbar{
+    width: 100%;
+    height: 110px;
+    /* background-color:rgb(75, 13, 13); */
+    position:fixed;
+    top: 0px; 
+    
+}
+a{
+    color: white;
+}
+.home{
+    color: white;
+    background-color: rgb(153, 77, 50);
+    margin-left: 200px ;
+    padding: 12px;
+    border-radius: 10px;
+    border-width: 150px;
+
+    /* position: fixed; */
+    
+
+}
+#im1{
+    width: 50px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+#heading{
+    color: white;
+    margin-right: 1147px;
+    font-family: 'Exo', sans-serif;
+    margin-top: 40px;
+
+}
+#heading:hover{
+    color: rgb(210, 168, 117);
+}
+#quote{
+    border: 1px solid;
+    margin-right: 800px;
+    font-style: oblique;
+    margin-top: 60px;
+    margin-left: 90px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    padding: 20px;
+    border-radius: 30px;
+    
+    
+}
+#quote:hover{
+    background-color: rgb(210, 168, 117);
+    border-color: black;
+    color: black;
+    
+}
+#box1{
+    /* border:rgb(34, 17, 17) 1px solid; */
+    margin-right: 800px;
+    margin-left: 90px;
+    margin-top: 10px;
+    padding: 25px;
+    border-radius: 30px;
+    color: rgb(26, 226, 216);
+}  
+#bp1{
+    font-family: 'Exo', sans-serif;
+    font-size:large;
+} 
+#bh1{
+    color: rgb(223, 146, 51) ;
+    
+}
+#b1{
+    margin-top: 30px;
+    margin-left: 325px;
+}
+h2{
+    color: red;
+}
+#dv1{
+    background-color:rgb(223, 146, 51) ;
+    color: black;
+    border: 2px black solid;
+    border-radius: 30px;
+    font-size: larger;
+    padding: 15px;
+    margin-top: -19px;
+}
+#dv1:hover{
+    background-color: black;
+    color: yellow;
+    border-color: white;   
+}
+
+#bg2{
+    background-image: url(./images/coffeim.jpeg);
+    background-size: cover;
+    height: 110vh;
+    
+    
+}
+#genre{
+    
+    margin-top: 100px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+#gh{
+
+    margin-top: 20px;
+    color: rgb(224, 237, 233);
+    padding-top: 50px;
+    
+    
+}
+#item1{
+    border: 2px white solid;
+    height: 385px;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color:palevioletred;
+    box-shadow: 3px 3px 15px 3px brown;
+}
+#item1:hover{
+    background-color: rgb(161, 38, 38); 
+    
+}
+#item2{
+    border: 2px white solid;
+    height: 385px;
+    width: 250px;
+    margin-left: 275px;
+    margin-top: -385px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: palevioletred;
+    box-shadow: 3px 3px 15px 3px brown;
+
+}
+h3{
+    color: blueviolet;
+}
+#item2:hover{
+    background-color: rgb(163, 7, 7);
+}
+#item3{
+    border: 2px white solid;
+    height: 385px;
+    width: 250px;
+    margin-left: 545px;
+    margin-top: -385px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: palevioletred;
+    box-shadow: 3px 3px 15px 3px brown;
+}
+#item3:hover{
+    background-color: rgb(136, 28, 28);
+}
+#item4{
+    border: 2px white solid;
+    height: 385px;
+    width: 250px;
+    margin-left: 820px;
+    margin-top: -385px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color:palevioletred;
+    box-shadow: 3px 3px 15px 3px brown;
+}
+#item4:hover{
+    background-color: rgb(109, 10, 10); 
+ }
+#item5{
+    border: 2px white solid;
+    height: 385px;
+    width: 250px;
+    margin-left: 1085px;
+    margin-top: -385px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color:palevioletred;
+    box-shadow: 3px 3px 15px 3px brown;
+}
+#item5:hover{
+    background-color: rgb(190, 27, 27); 
+ }
+#bg3{
+    background-image:url(./images/Chocolate-Caramel-Rum-Coffee_EXPS_THFM19_119520_E09_27_11b-1.jpg);
+    background-size: cover;
+    height: 120vh;
+}
+#galh{
+    color: wheat;
+    /* border: 2px  solid; */
+    margin-left: 84px;
+    margin-right: 1200px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#galh:hover{
+    background-color: rgb(36, 238, 96);
+    color: rgb(138, 14, 14);
+}
+#pic1{
+    border: 2px rgb(44, 24, 24) solid;
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 65px;
+    margin-right: 70px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(175, 214, 34);
+}
+#pic1:hover{
+    background-color: rgb(119, 36, 36);
+}
+#turkey{
+    width: 100%;
+    height: 250px;
+    border-radius: 20px;
+}
+#pic2{
+    border: 2px rgb(82, 29, 29) solid;
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 65px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(175, 214, 34);
+}
+#pic2:hover{
+    background-color:rgb(80, 27, 27) ;
+}
+#pic3{
+    border: 2px rgb(71, 32, 32) solid;
+    width: 300px;
+    height: 300px;
+    margin-top: -640px;
+    margin-left: 553px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(175, 214, 34);
+}
+#pic3:hover{
+    background-color:rgb(100, 38, 38) ;
+}
+#pic4{
+    border: 2px rgb(73, 21, 21) solid;
+    width: 300px;
+    height: 300px;
+    margin-top: -299px;
+    margin-left: 1040px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(175, 214, 34);
+}
+#pic4:hover{
+    background-color:rgb(87, 41, 41) ;
+}
+#pic5{
+    border: 2px rgb(95, 40, 40) solid;
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 553px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(175, 214, 34);
+}
+#pic5:hover{
+    background-color:rgb(68, 23, 23);
+}
+#pic6{
+    border: 2px rgb(90, 31, 31) solid;
+    width: 300px;
+    height: 300px;
+    margin-top: -299px;
+    margin-left: 1040px;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(175, 214, 34);
+}
+#pic6:hover{
+    background-color:rgb(119, 55, 55);
+}
+#frm{
+    /* background-color: rgb(72, 71, 71); */
+    background-image: url(./images/Automatic-drip-coffee-maker-and-coffee.jpeg);
+    height: 580px;
+    width: 100%;
+    /* border: 5px white solid; */
+    margin-top: -1px;
+    margin-right: 1500px;
+}
+.h{
+    color: white;
+    /* border: 2px white solid; */
+    margin-left: 250px;
+}
+.p{
+    background-color: brown;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+}
+#fb{
+    border: 2px rgb(170, 35, 35) solid;
+    width: 510px;
+    height: 535px;
+    margin-left: 488px;
+    padding: 20px;
+    border-radius: 15px;
+}
+#ftr{
+    width: 100%;
+    height: 200%;
+}
+#ft{
+    text-align: center;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#la{
+   color: red;
+}
+#q{
+    height: 150px;
+}
+#b2{
+    background-color: rgb(151, 21, 21);
+    padding: 5px;
+    border: 3px rgb(192, 22, 22) solid;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(0, 255, 76);
+    margin-left: 165px;
+    margin-top: 30px;
+
+}
+#b2:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+#reach{
+    /* border: 3px white solid; */
+    height: 190px;
+    width: 1427px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+#bhead{
+    text-align: center;
+    color: purple;
+    margin-right: 100px;
+    margin-top: -148px;
+    font-family: fantasy;
+     
+    
+ }
+ #finalh{
+    text-align: center; 
+    margin-top: -14px;
+}
+#imb{
+   width: 120px;
+   margin-top: 20px;
+   margin-left: 30px;
+   border-radius: 20px;
+   /* margin-bottom: 35px; */
+    
+}
+#social{
+    /* border: 2px white solid; */
+    width: 200px;
+    height: 120px;
+    margin-left: 200px;
+    margin-top: -10px;
+    padding: 20px;
+    color: red;
+
+}
+ul{
+    margin-left: 5px;
+}
+#num{
+    color: red;
+    margin-left: 530px;
+}
+#adress{
+    height: 150px;
+    width: 321px;
+    
+    margin-left: 1056px;
+    margin-top: -176px;
+    color:red;
+}
+#lasthead{
+    font-family: 'Exo', sans-serif;
+    color: red;
+}
+
